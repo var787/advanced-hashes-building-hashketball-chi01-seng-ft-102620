@@ -15,7 +15,6 @@ def game_hash
         :steals=>3,
         :blocks=>1
       }
-      binding.pry
     ]
   },
   :away=>{
