@@ -6,11 +6,10 @@ def game_hash
     :colors=>["Black","White"],
     :players=>[]
   },
-  {:away=>{
+  :away=>{
     :team_name=>"Charlotte Hornets",
     :colors=>["Turquoise","Purple"],
     :players=>[]
   }
-}
 }
 end
