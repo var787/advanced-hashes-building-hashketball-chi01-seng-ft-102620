@@ -7,6 +7,7 @@ def game_hash
     :players=>[
       {
         :player_name=>"Alan Anderson",
+        binding.pry
         :number=>0,
         :shoe=>16,
         :points=>22,
@@ -20,8 +21,9 @@ def game_hash
   :away=>{
     :team_name=>"Charlotte Hornets",
     :colors=>["Turquoise","Purple"],
-    :players=>[]
+    :players=>[
+
+    ]
   }
 }
-binding.pry
 end
