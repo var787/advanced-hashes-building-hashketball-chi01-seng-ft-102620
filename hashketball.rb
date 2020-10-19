@@ -23,5 +23,4 @@ def game_hash
     :players=>[]
   }
 }
-binding.pry
 end
