@@ -7,7 +7,6 @@ def game_hash
     :players=>[
       {
         :player_name=>"Alan Anderson",
-        binding.pry
         :number=>0,
         :shoe=>16,
         :points=>22,
