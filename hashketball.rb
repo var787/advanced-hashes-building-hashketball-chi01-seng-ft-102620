@@ -16,7 +16,7 @@ def game_hash
         :blocks=>1
       }
     ]
-  }
+  },
   :away=>{
     :team_name=>"Charlotte Hornets",
     :colors=>["Turquoise","Purple"],
